@@ -10,7 +10,8 @@
   <h2>:sunglasses: Introduction :sunglasses:</h2>
   <p>안녕하세요 풀스택 개발자가 되기 위해 공부중인 개발자입니다.</p>
 
-  ![Static Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white&link=https://danielrepo.tistory.com/)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dnmokujin@gmail.com)](dnmokujin@gmail.com)
+  [![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white&link=mailto:danielrepo.tistory.com)](danielrepo.tistory.com)
 </div>
 
 <div align="center">
