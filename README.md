@@ -9,7 +9,7 @@
 <div align="center">
   
   <h2>:sunglasses: Introduction :sunglasses:</h2>
-  <p>안녕하세요 풀스택 개발자가 되기 위해 공부중인 개발자입니다.</p>
+  <p>안녕하세요 다니엘입니다!</p>
   
 </div>
 
